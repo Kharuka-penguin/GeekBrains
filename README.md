@@ -1,2 +1,2 @@
 # GeekBrains
-Repo for homeworks
+Repository for homeworks
